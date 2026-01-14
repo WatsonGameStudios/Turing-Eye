@@ -1,5 +1,8 @@
 # Turing-Eye
-A Simple Ai Masculine or Femenin Image Detection Model made with teachablemachine
 
-## Masc/Fem
-Turing-Eye detects wheater a person's Face presents mostly masculine or mostly femenin. 
+A Simple Ai Image Detection Model made with teachablemachine built to detect a persons mood.
+
+## How To Use
+
+1. Go To turing-eye.watsongamestudios.github.com
+2.
